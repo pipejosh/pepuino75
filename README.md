@@ -5,9 +5,12 @@ This is the pepuino75, a 75 percent keyboard, featuring my custom microcontroler
 ### BOM
 ![BOM](IMG/BOM.png) 
 ### SCHEMATIC
+## NOTE THE PINS IN THE PEPUINONANOV1 ARE IN THIS ORDER IT ISNT A MISTAKE ITS INTENTIONAL
+
 ![schematic](IMG/schematic.png) 
 ### PCB
 ![pcb](IMG/pcb.png) 
 ### RENDER
 ![pcb](IMG/render.png) 
+
 
